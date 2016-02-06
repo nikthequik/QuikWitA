@@ -9,10 +9,10 @@
 .banner
 {
 	/*background-color: #341F48;*/
-	background: -moz-linear-gradient(left, #341F48 50%, #2b193c 50%);
+	background: -moz-linear-gradient(left, blue 50%, red 50%);
 	background: -webkit-linear-gradient(left, blue 50%, red 50%);
-	background: -o-linear-gradient(left, #341F48 50%, #2b193c 50%);
-	background: linear-gradient(left, #341F48 50%, #2b193c 50%);
+	background: -o-linear-gradient(left, blue 50%, red 50%);
+	background: linear-gradient(left, blue 50%, red 50%);
 }
 
 .banner-text 
