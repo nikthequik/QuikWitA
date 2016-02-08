@@ -168,7 +168,7 @@
 }
 .navstyle li a:hover, .navstyle li a:focus, .navstyle li a.active
 {
-	background-color: #33a29d !important;
+	background-color: green !important;
 	color: #fff;
 }
 
@@ -471,7 +471,7 @@ figure.effect-Beauty:hover p {
 /------------------------------------------*/
 .notes
 {
-	background-color: #45AACB;
+	background-color: black;
 	padding: 100px 0px;
 }
 .notes p
@@ -486,7 +486,7 @@ figure.effect-Beauty:hover p {
 {
 	display: inline-block;
 	border: medium none;
-	background-color: #3EC9C3;
+	background-color: green;
 	padding: 12px 38px;
 	color: #fff;
 	border-radius: 4px;
