@@ -89,15 +89,15 @@
 	font-family: 'Pacifico', cursive;
 	/*color: #c6027f;	*/
 	color: white;
-	font-size: 60px;
+	font-size: 80px;
 }
 .pstyle
 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-weight: 400;
+	font-weight: 450;
 	text-transform: uppercase;
-	font-size: 13px;
+	font-size: 15px;
 	letter-spacing: 2px;
 	padding: 0px !important;
 }
