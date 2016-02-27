@@ -1,0 +1,2 @@
+module DiscgalHelper
+end

@@ -1,8 +1,10 @@
 Rails.application.routes.draw do
   get 'welcome/homepage'
 
-  resources :welcome
 
+  resources :welcome
+  resources :discgal
+  get 'discgal/index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

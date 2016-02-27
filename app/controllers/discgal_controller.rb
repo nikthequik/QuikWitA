@@ -1,0 +1,2 @@
+class DiscgalController < ApplicationController
+end
